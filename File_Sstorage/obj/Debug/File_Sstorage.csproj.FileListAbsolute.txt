@@ -1,0 +1,6 @@
+E:\Projects\C#\Console\File_Sstorage\File_Sstorage\bin\Debug\File_Sstorage.exe.config
+E:\Projects\C#\Console\File_Sstorage\File_Sstorage\bin\Debug\File_Sstorage.exe
+E:\Projects\C#\Console\File_Sstorage\File_Sstorage\bin\Debug\File_Sstorage.pdb
+E:\Projects\C#\Console\File_Sstorage\File_Sstorage\obj\Debug\File_Sstorage.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Console\File_Sstorage\File_Sstorage\obj\Debug\File_Sstorage.exe
+E:\Projects\C#\Console\File_Sstorage\File_Sstorage\obj\Debug\File_Sstorage.pdb

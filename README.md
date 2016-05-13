@@ -80,3 +80,4 @@ Object Oriented: Singleton.
 
 ####3.Which patterns would be used if another programming language would be used?
 
+I think that if we would used programming languages such as Java or C#, we would used Strategy pattern with them and maby Builder pattern.

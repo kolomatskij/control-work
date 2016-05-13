@@ -1,5 +1,3 @@
-# Project for OOP course at university
-
 ##About
 
 
